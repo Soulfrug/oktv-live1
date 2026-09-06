@@ -1,44 +1,42 @@
 央视 CCTV,#genre#
-CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-13,http://go.bkpcp.top/mg/cctv13
-CCTV-1,http://69.30.245.50/live/cctv1.m3u8
+CCTV-1,http://221.7.175.154:8445/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0#http://173.208.212.130:8181/720p/cctv1.m3u8#http://204.12.221.218:8181/3m1080p/cctv1.m3u8
+CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8#https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
 CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8
-CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
+CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
-WCETV Digital Channel 31.8,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
+WCETV 美国华语31.8,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 港澳台,#genre#
 TVBS Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 RTHK TV 31 (港台電視31),https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 大陆卫视,#genre#
-Anhui TV,https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
-BRTV 北京卫视,http://go.bkpcp.top/mg/bjws
-Dragon TV International,https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
-Guangdong Satellite TV,https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
-Hebei TV,https://event.pull.hebtv.com/live/live101.m3u8
-Hunan TV,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-Kangba TV,http://110.185.237.164:8888/hls/30/index.m3u8
-Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+安徽卫视,https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
+北京卫视,http://go.bkpcp.top/mg/bjws
+上海东方卫视,https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
+广东卫视,https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
+河北卫视,https://event.pull.hebtv.com/live/live101.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+康巴卫视,http://110.185.237.164:8888/hls/30/index.m3u8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 大陆城市台,#genre#
-Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
-Chifeng Comprehensive News Chanel,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
-Guangzhou TV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
-Harbin Comprehensive News Channel,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
-Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8
-Lanzhou Comprehensive News Channel,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
-Lanzhou Culture & Tourism Channel,https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
-QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
-QTV-2,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
-QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
-QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
-QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
-QTV-6,http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
-Siping TV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
+安顺新闻综合,https://hplayer1.juyun.tv/camera/154379194.m3u8
+赤峰新闻综合,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
+哈尔滨影视,https://stream.hrbtv.net/yspd/playlist.m3u8
+兰州新闻综合,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
+兰州文旅,https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
+青岛一台,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+青岛二台,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+青岛三台,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+青岛四台,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+青岛五台,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
+青岛六台,http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+四平电视台,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 白城新闻综合,https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-
 河南电视,#genre#
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=14393b4bc94d2ceb5bfe277dc77e2b41&wsTime=1788746641#http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0#http://221.7.175.154:8445/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 梨园频道(戏曲24h),https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=5b82fcec28c65cf0928662d2fffd27bb&wsTime=1788746641
