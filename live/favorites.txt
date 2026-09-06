@@ -13,6 +13,37 @@ WCETV Digital Channel 31.8,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 港澳台,#genre#
 TVBS Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 RTHK TV 31 (港台電視31),https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+大陆卫视,#genre#
+Anhui TV,https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
+BRTV 北京卫视,http://go.bkpcp.top/mg/bjws
+Dragon TV International,https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
+Guangdong Satellite TV,https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
+Hebei TV,https://event.pull.hebtv.com/live/live101.m3u8
+Hunan TV,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+Kangba TV,http://110.185.237.164:8888/hls/30/index.m3u8
+Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+大陆城市台,#genre#
+Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
+Chifeng Comprehensive News Chanel,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+Guangzhou TV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+Harbin Comprehensive News Channel,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
+Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8
+Lanzhou Comprehensive News Channel,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
+Lanzhou Culture & Tourism Channel,https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
+QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+QTV-2,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
+QTV-6,http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+Siping TV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
+白城新闻综合,https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+
+河南电视,#genre#
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=14393b4bc94d2ceb5bfe277dc77e2b41&wsTime=1788746641#http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0#http://221.7.175.154:8445/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+梨园频道(戏曲24h),https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=5b82fcec28c65cf0928662d2fffd27bb&wsTime=1788746641
+河南新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=7bab822585cce5570f0141c2dd9f74a2&wsTime=1788746641
+河南都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=1dc988f6d75bdbfd13a48a885331746b&wsTime=1788746641
 国际新闻,#genre#
 Fox News Channel,http://45.190.28.50/FOX_NEWS/index.m3u8
 ABC News Live 1,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
@@ -36,7 +67,6 @@ AMC,http://23.239.31.26:8989/amc/index.m3u8
 Nick Jr.,https://sra72yz.s.gy/NICK_JR_US.m3u8
 Antiques Roadshow PBS,https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
 CBS 3 Omaha NE (KMTV),https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
-# ==== 加拿大·全部电视（215 台） ====
 加拿大电视,#genre#
 CBC News,https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
 CP24,https://tvsen6.aynaott.com/cp24/index.m3u8
@@ -264,7 +294,6 @@ SVBC 3,https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp
 SVBC 4,https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
 SVBC Sri Venkateswara Bhakti Channel,https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 Ontario Parliamentary Network,https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-# ==== 美国·全部电视（1292 台） ====
 美国电视,#genre#
 30A Lionel Nation TV,https://30a-tv.com/ln.m3u8
 ABC (WPLG-DT1) Miami FL,https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
@@ -1558,28 +1587,25 @@ YouDotGov,https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u
 Yuma AZ CH 72,https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Yuma AZ CH 73,https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Yuma77,https://securestream10.champds.com/LIVE/YumaCoAZLIVE/YumaCoAZLIVE.m3u8
-# ==== 港澳台电视（12 台） ====
 港澳台电视,#genre#
 AXN Asia Taiwan,http://125.227.210.55:4050/VideoInput/play.ts
 Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 CGNTV Chinese,https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-Dali TV (大立電視台),http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+Dali TV,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 GOOD TV CH1 綜合台,https://live.streamingfast.net/osmflivech1.m3u8
 GOOD TV CH2 真理台,https://live.streamingfast.net/osmflivech2.m3u8
 NTD TV Asia-Pacific,https://live.ntdtv.com/aplive200/playlist.m3u8
-Pet Club TV,https://petclub-samsungaus.amagi.tv/playlist.m3u8
-RTHK TV 31 (港台電視31),https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 Supreme Master TV,https://lbs-us1.suprememastertv.com/720p.m3u8
 Taiwan Indigenous TV,https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 TVBS Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-# ==== 新加坡电视（5 台） ====
+Pet Club TV,https://petclub-samsungaus.amagi.tv/playlist.m3u8
+RTHK TV 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 新加坡电视,#genre#
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 CNA Originals,https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 Channel U,https://cdn.qd.je/163189/chu
 meWATCH LIVE 1,https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 Channel 8,https://cdn.qd.je/163189/ch8
-# ==== 韩国电视（40 台） ====
 韩国电视,#genre#
 Gugbang TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 EBS kids,https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
@@ -1623,5 +1649,3 @@ Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 National Assembly TV,https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
 半岛电视台,#genre#
 Al Jazeera English 半岛(英语),https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8#https://live-hls-apps-aje.getaj.net/AJE/index.m3u8#http://stream.mcquack.net/131/index.m3u8
-日本电视,#genre#
-Weathernews,https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
