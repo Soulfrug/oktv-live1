@@ -8,12 +8,21 @@
       "type": 0,
       "url": "https://raw.githubusercontent.com/Soulfrug/oktv-live1/main/live/favorites.txt",
       "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "epg": "https://iptv-org.github.io/epg.xml.gz"
     },
     {
-      "name": "北美电视(美加)",
+      "name": "加拿大电视",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/Soulfrug/oktv-live1/main/live/north-america.m3u",
+      "url": "https://raw.githubusercontent.com/Soulfrug/oktv-live1/main/live/canada.m3u",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "epg": "https://iptv-org.github.io/epg.xml.gz"
+    },
+    {
+      "name": "美国电视",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/Soulfrug/oktv-live1/main/live/usa.m3u",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png",
       "epg": "https://iptv-org.github.io/epg.xml.gz"
@@ -22,6 +31,22 @@
       "name": "港澳台电视",
       "type": 0,
       "url": "https://raw.githubusercontent.com/Soulfrug/oktv-live1/main/live/hk-tw.m3u",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "epg": "https://iptv-org.github.io/epg.xml.gz"
+    },
+    {
+      "name": "新加坡电视",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/Soulfrug/oktv-live1/main/live/singapore.m3u",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "epg": "https://iptv-org.github.io/epg.xml.gz"
+    },
+    {
+      "name": "韩国电视",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/Soulfrug/oktv-live1/main/live/korea.m3u",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png",
       "epg": "https://iptv-org.github.io/epg.xml.gz"
@@ -39,7 +64,8 @@
       "type": 0,
       "url": "https://raw.githubusercontent.com/Soulfrug/oktv-live1/main/live/china.txt",
       "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "epg": "https://iptv-org.github.io/epg.xml.gz"
     },
     {
       "name": "免费全球(FreeTV)",
