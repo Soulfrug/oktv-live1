@@ -4,59 +4,49 @@
   "logo": "",
   "lives": [
     {
-      "name": "北美电视",
+      "name": "我的精选",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/Soulfrug/oktv-live1/main/live/favorites.txt",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "北美电视(美加)",
       "type": 0,
       "url": "https://raw.githubusercontent.com/Soulfrug/oktv-live1/main/live/north-america.m3u",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "epg": "https://epg.pw/xmltv/epg_US.xml.gz"
+      "epg": "https://iptv-org.github.io/epg.xml.gz"
     },
     {
-      "name": "中文直播",
+      "name": "港澳台电视",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/Soulfrug/oktv-live1/main/live/hk-tw.m3u",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "epg": "https://iptv-org.github.io/epg.xml.gz"
+    },
+    {
+      "name": "央视·卫视·大陆",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/Soulfrug/oktv-live1/main/live/china-cn.m3u",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "epg": "https://iptv-org.github.io/epg.xml.gz"
+    },
+    {
+      "name": "中文直播(大陆)",
       "type": 0,
       "url": "https://raw.githubusercontent.com/Soulfrug/oktv-live1/main/live/china.txt",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "亚洲中文(IPv4)",
+      "name": "免费全球(FreeTV)",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/Soulfrug/oktv-live1/main/live/asia.m3u",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "epg": "https://iptv-org.github.io/epg.xml.gz"
-    },
-    {
-      "name": "台湾电视",
-      "type": 0,
-      "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
+      "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "香港电视",
-      "type": 0,
-      "url": "https://iptv-org.github.io/iptv/countries/hk.m3u",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "全球直播(1.3万频道)",
-      "type": 0,
-      "url": "https://iptv-org.github.io/iptv/index.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "北美IPTV-org",
-      "type": 0,
-      "url": "https://iptv-org.github.io/iptv/countries/us.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "加拿大IPTV-org",
-      "type": 0,
-      "url": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-      "playerType": 1
     },
     {
       "name": "中文备份(zeee-u)",
