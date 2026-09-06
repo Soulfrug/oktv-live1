@@ -1,0 +1,38 @@
+央视 CCTV,#genre#
+CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-13,http://go.bkpcp.top/mg/cctv13
+CCTV-1,http://69.30.245.50/live/cctv1.m3u8
+CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+CCTV-6,http://69.30.245.50/live/cctv6.m3u8
+CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
+CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
+WCETV Digital Channel 31.8,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
+港澳台,#genre#
+TVBS Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+RTHK TV 31 (港台電視31),https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+国际新闻,#genre#
+Fox News Channel,http://45.190.28.50/FOX_NEWS/index.m3u8
+ABC News Live 1,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
+CBS News 24/7,https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
+NBC News NOW,https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
+Bloomberg Originals,https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+CNBC,http://41.205.93.154/CNBC/index.m3u8
+体育,#genre#
+Fox Sports 1,http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+NFL Channel,https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
+NBA TV,https://cdn1.ayitistream.com/NBATV/index.m3u8
+NHL Network,https://nhl-firetv.amagi.tv/playlist.m3u8
+MLB,https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
+30A Golf Kingdom,https://30a-tv.com/feeds/vidaa/golf.m3u8
+Tennis Channel,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+纪录娱乐,#genre#
+Autentic History,https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+Autentic Travel,https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+Paramount Movie Channel,https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+AMC,http://23.239.31.26:8989/amc/index.m3u8
+Nick Jr.,https://sra72yz.s.gy/NICK_JR_US.m3u8
+Antiques Roadshow PBS,https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
+CBS 3 Omaha NE (KMTV),https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
