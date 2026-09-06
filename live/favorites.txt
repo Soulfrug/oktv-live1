@@ -1622,12 +1622,6 @@ RUTC TV,http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.strea
 Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 National Assembly TV,https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
 半岛电视台,#genre#
-Al Jazeera English,https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+Al Jazeera English 半岛(英语),https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 日本电视,#genre#
-JOAX-DTV,https://ntv5.mov3.co/hls/ntv.m3u8
-JOCX-DTV,https://fujitv4.mov3.co/hls/fujitv.m3u8
-JOEX-DTV,https://tvasahi.mov3.co/hls/tvasahi.m3u8
-JORX-DTV,https://tbs5.mov3.co/hls/tbs.m3u8
-JOTX-DTV,https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
-NHK General TV,https://nhk4.mov3.co/hls/nhk.m3u8
 Weathernews,https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
