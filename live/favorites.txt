@@ -70,6 +70,28 @@ AMC,http://23.239.31.26:8989/amc/index.m3u8
 Nick Jr.,https://sra72yz.s.gy/NICK_JR_US.m3u8
 Antiques Roadshow PBS,https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
 CBS 3 Omaha NE (KMTV),https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
+音乐 MTV,#genre#
+MTV Live,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+MTV Biggest Pop,https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8#https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8#https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8#https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
+MTV Spankin' New,https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8#https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
+MTV Flow Latino,https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8#https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
+CMT,http://23.237.104.106:8080/USA_CMT/index.m3u8
+CMT Equal Play,https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
+Stingray Greatest Hits,https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053
+Stingray Classic Rock,https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+Stingray Classica,https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+Trace Africa,https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
+Trace Latina,https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
+Trace Brasil,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+Trace Urban (Australia),https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+Trace Urban Africa Franco,https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
+Trace Urban Caribbean and Indian Ocean,https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
+Trace Urban France,https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
+Trace Urban International,https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
+Trace Urban Southern Africa,https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
+Trace Naija,https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
+Trace Mziki,https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8
+CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 加拿大电视,#genre#
 CBC News,https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
 CP24,https://tvsen6.aynaott.com/cp24/index.m3u8
