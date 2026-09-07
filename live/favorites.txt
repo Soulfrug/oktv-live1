@@ -92,6 +92,10 @@ Trace Urban Southern Africa,https://channels.trace.plus/Traceprod/URBAN_SA_hd/in
 Trace Naija,https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
 Trace Mziki,https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8
 CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
+音乐亚洲,#genre#
+NEW KPOP,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
+Stingray Today's KPOP,https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+Kpop Mix,https://cloud.tvomix.com/KPOPMIX/index.m3u8
 加拿大电视,#genre#
 CBC News,https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
 CP24,https://tvsen6.aynaott.com/cp24/index.m3u8
