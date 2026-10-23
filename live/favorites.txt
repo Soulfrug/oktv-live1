@@ -2204,3 +2204,13 @@ HLDH-DTV,https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 Tooniverse,https://xyktmobile00.s.gy/PPV939_TOONCAST
 半岛电视台,#genre#
 Al Jazeera English 半岛(英语),https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8#https://live-hls-apps-aje.getaj.net/AJE/index.m3u8#http://stream.mcquack.net/131/index.m3u8
+国内体育,#genre#
+CCTV-5 体育,#http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8#http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000205103.m3u8#http://live.cctalk.com/live_cctalk/cc_c5ha00usgm2fhhyoxu/index.m3u8
+五星体育(上海),#http://hls.mv.wa5.com/live/gssports1_900/playlist.m3u8#http://hls.mv.wa5.com/live/gssports1/playlist.m3u8
+河南地方台,#genre#
+平顶山新闻综合,http://live.dxhmt.cn:9080/13619822555/4ce2b9b6947043b388916f748a518953.m3u8
+平顶山城市,http://live.dxhmt.cn:9080/13619822555/29df489f23274977826bb0c55cb0411d.m3u8
+平顶山公共,http://live.dxhmt.cn:9080/13619822555/5cc9016a17a54af6803096eec26fdd74.m3u8
+清风平顶山,http://live.dxhmt.cn:9080/13619822555/ff0d20a1d7c840a3850bfdab119943ac.m3u8
+洛阳文旅,http://wshls.live.migucloud.com/live/G8B61RHW_C0/playlist.m3u8
+洛阳科教,http://wshls.live.migucloud.com/live/3WH8OBTJ_C0/playlist.m3u8
