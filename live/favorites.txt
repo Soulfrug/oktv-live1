@@ -21,26 +21,32 @@ CGNTV中文台,https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb937
 无上师电视台,https://lbs-us1.suprememastertv.com/720p.m3u8
 原住民族电视台,https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-宠物台(Pet Club),https://petclub-samsungaus.amagi.tv/playlist.m3u8
+宠物台,https://petclub-samsungaus.amagi.tv/playlist.m3u8
 港台电视31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-Asian Drama,http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
-Golden Jade,http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
-Jade,http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
-Mei Ah Movie Channel,http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
-Pet Club TV,https://petclub-samsungaus.amagi.tv/playlist.m3u8
-RTHK TV 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-AXN Asia Taiwan,http://125.227.210.55:4050/VideoInput/play.ts
-Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-CGNTV Chinese,https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-Dali TV,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-Good 2,https://live.streamingfast.net/osmflivech2.m3u8
-Good TV (Taiwan),https://live.streamingfast.net/osmflivech1.m3u8
-NTD TV Asia-Pacific,https://live.ntdtv.com/aplive200/playlist.m3u8
-Supreme Master TV,https://lbs-us1.suprememastertv.com/720p.m3u8
-Taiwan Indigenous TV,https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-WXTV,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-tvN Asia HD,http://58.8.186.128:10005/bysid/2518
+亚洲剧台,http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
+黄金翡翠台,http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
+翡翠台,http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
+美亚电影台,http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
+HOY TV,https://cdn.qd.je/163189/hoy
+HOY资讯台,https://cdn.qd.je/163189/hoy78
+NOW新闻台,https://cdn.qd.je/163189/now
+港台电视32,https://cdn.qd.je/163189/rthk32
+TVB1,https://cdn6.cc.cd/163189/tvb1
+TVB J1,https://cdn6.cc.cd/163189/j1
+TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
+TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
+TVB新闻台,https://cdn6.cc.cd/163189/wxxw
+ViuTV,https://cdn.qd.je/163189/viu
+ViuTVsix,https://cdn.qd.je/163189/viu6
+无线新闻台,https://cdn6.cc.cd/163189/wxxwt
+明珠台,https://cdn.qd.je/163189/mzt
+澳视澳门,https://cdn.qd.je/163189/asam
+澳视卫星,https://cdn.qd.je/163189/as
+澳门体育,https://cdn.qd.je/163189/amty
+澳门综艺,https://cdn.qd.je/163189/amzy
+澳门莲花,https://cdn.qd.je/163189/amlh
+Astro AOD,https://cdn.qd.je/163189/aod
+Astro欢喜台,https://cdn.qd.je/163189/hxt
 大陆卫视,#genre#
 安徽卫视,https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
 上海东方卫视,https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
@@ -100,6 +106,10 @@ Paramount Movie Channel,https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 AMC,http://23.239.31.26:8989/amc/index.m3u8
 Antiques Roadshow PBS,https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
 CBS 3 Omaha NE (KMTV),https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
+TVB星河,https://cdn6.cc.cd/163189/tvbxh
+TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
+天映频道,https://cdn.qd.je/163189/typd
+重温经典,https://cdn.qd.je/163189/cwjd
 音乐 MTV,#genre#
 MTV Live,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 MTV Biggest Pop,https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8#https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8#https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8#https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
@@ -2117,15 +2127,18 @@ Unbeaten,https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 UniMas WAMI-DT,http://190.197.41.183/Unimas/index.m3u8
 We TV,http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 新加坡电视,#genre#
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-CNA Originals,https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
-Channel U,https://cdn.qd.je/163189/chu
-Channel 8,https://cdn.qd.je/163189/ch8
-Channel 8 (Singapore),https://cdn.qd.je/163189/ch8
-CNA (Singapore),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+亚洲新闻台·原创,https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+U频道,https://cdn.qd.je/163189/chu
+第八频道,https://cdn.qd.je/163189/ch8
+第八频道(备用源),https://cdn.qd.je/163189/ch8
+亚洲新闻台(新加坡),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 ROCK Entertainment HD,http://58.8.186.128:10006/bysid/2612
 ROCK X Stream,http://58.8.186.128:10007/bysid/2811
 tvN Asia HD,http://58.8.186.128:10005/bysid/2518
+新视5频道(CH5),https://cdn.qd.je/163189/ch5
+新视8频道(CH8),https://cdn.qd.je/163189/ch8
+新视U频道(CHU),https://cdn.qd.je/163189/chu
 韩国电视,#genre#
 Gugbang TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 EBS kids,https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
